@@ -1,5 +1,6 @@
 # Predator Helios 300 EFI PH315-52 (OC 0.6.0)
  EFI for Acer Predator Helios EFI
+ ![configuration](https://i.ibb.co/bQBcphJ/Screenshot-2020-08-23-at-2-43-45-AM.png)
 
 ## Configuration
 **CPU** : Intel Core i7-9750H @ 2,6Ghz - 4,5Ghz
