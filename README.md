@@ -2,15 +2,15 @@
  EFI for Acer Predator Helios EFI
 
 ## Configuration
-CPU : Intel Core i7-9750H @ 2,6Ghz - 4,5Ghz
+**CPU** : Intel Core i7-9750H @ 2,6Ghz - 4,5Ghz
 
-GPU : Intel UHD Graphics 630 
+**GPU** : Intel UHD Graphics 630 
 
-RAM : 16GB @ 2666Mhz
+**RAM** : 16GB @ 2666Mhz
 
-STORAGE : 500GB (for MacOS)
+**STORAGE** : 500GB (for MacOS)
 
-OS : MacOS Catalina (10.15.6)
+**OS** : MacOS Catalina (10.15.6)
 
 ## What's working
 
